@@ -1,9 +1,9 @@
 ### Hi there, I'm js1881! 👋
 
-* I'm into everything as loog as it's fun. 🤔
+* I'm into everything as long as it's fun. 🤔
 * Live A life, you will remember.
 
-### Job Carrier
+### Career
 
 #### Since 2023~
 
