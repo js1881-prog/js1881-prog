@@ -26,10 +26,6 @@ I am currently working at a U.S. startup founded by former Qualcomm members. I m
 * 👋 Aiming to write code that is easy for others to read, based on a deep understanding of technology.
 * 📫 Anyone who interests about me, Always welcome to contact me!
 
-<div align="center">
-  <a href="https://github.com/js1881-prog">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=white&height=230&section=header&text=💻%20js1881-prog&fontColor=FFFFFF">
-  </a>
 
   <div>
     <h1>⚒️ Tech Stack ⚒️</h1>
