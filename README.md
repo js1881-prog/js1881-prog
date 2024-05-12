@@ -13,7 +13,7 @@ I believe there's no one-size-fits-all solution. :)
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> 
 
 
-I work as a Flutter developer at a startup, where I've helped build a high-quality picture-studio platform in collaboration with a talented app designer. Through this experience, I've gained expertise in modern component-based front-end architecture and design patterns that are easily understandable by other developers. I always strive to be the best in what I do.
+I worked as a Flutter developer at a startup, where I've helped build a high-quality picture-studio platform in collaboration with a talented app designer. Through this experience, I've gained expertise in modern component-based front-end architecture and design patterns that are easily understandable by other developers.
 
 #### 2024 ~ing
 
