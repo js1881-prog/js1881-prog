@@ -26,6 +26,8 @@ I am currently working at a U.S. startup founded by former Qualcomm members. I m
 * 👋 Aiming to write code that is easy for others to read, based on a deep understanding of technology.
 * 📫 Anyone who interests about me, Always welcome to contact me!
 
+:email: <bbde1861@gmail.com>
+
 
   <div>
     <h1>⚒️ Tech Stack ⚒️</h1>
