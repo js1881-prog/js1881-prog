@@ -1,7 +1,7 @@
 ### Hi there, I`m Minseok-Kang 👋
 
 * I generally prefer OOP and abstraction, but I turn to functional programming when things get too complex.
-I believe there's no one-size-fits-all solution. KK
+I believe there's no one-size-fits-all solution. :)
 * I don't specifically separate learning into front-end and back-end. My experience in startups has given me a broad knowledge encompassing both.
 * If the code I write is hard to read, even if it performs well, I consider it to be flawed. I enjoy designing solutions to this issue.
 
