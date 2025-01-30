@@ -17,8 +17,9 @@ I worked as a Flutter developer at a startup, where I've helped build a high-qua
 
 #### 2024 ~ing
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> 
-
+<img src="https://img.shields.io/badge/Android-007396?style=flat-square&logo=Android&logoColor=Green"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+  
 I am currently working at a U.S. startup founded by former Qualcomm members. I manage the integration of our company's products through Flutter apps. As an AI-based company, I am gaining experience in understanding LLM-based architectures, implementing algorithms for maintaining low latency, and increasing test coverage through CI/CD.
   
 ### Research interests
