@@ -1,31 +1,32 @@
-### Hi there, I`m Minseok-Kang 👋
+## Hi there, I`m Minseok-Kang 👋
 
-* I generally prefer OOP and abstraction, but I turn to functional programming when things get too complex.
-I believe there's no one-size-fits-all solution. :)
-* I don't specifically separate learning into front-end and back-end. My experience in startups has given me a broad knowledge encompassing both.
-* If the code I write is hard to read, even if it performs well, I consider it to be flawed. I enjoy designing solutions to this issue.
+* I primarily follow OOP and abstraction, but I embrace functional programming when complexity demands it. I believe that there's no one-size-fits-all approach.
+* Based on my experience in fast-paced startups that demand a wide range of skills, I have gained solid knowledge in both front-end and back-end development, allowing me to handle both effectively.
+* I believe clean, readable code is just as important as performance. If my code is hard to read, I consider it flawed.
 
 
-### Career
+## Career (Since 2023)
 
-#### Since 2023~
-
+### 2023 | Flutter Developer
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> 
 
+Worked as a Flutter developer at a startup, helping build a high-quality picture-studio platform in collaboration with a designer.
+Gained expertise in modern component-based front-end architecture and developer-friendly design patterns.
 
-I worked as a Flutter developer at a startup, where I've helped build a high-quality picture-studio platform in collaboration with a talented app designer. Through this experience, I've gained expertise in modern component-based front-end architecture and design patterns that are easily understandable by other developers.
-
-#### 2024 ~ing
-
+### 2024 ~ Present | Android & Flutter Developer
 <img src="https://img.shields.io/badge/Android-007396?style=flat-square&logo=Android&logoColor=Green"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
   
-I am currently working at a U.S. startup founded by former Qualcomm members. I manage the integration of our company's products through Flutter apps. As an AI-based company, I am gaining experience in understanding LLM-based architectures, implementing algorithms for maintaining low latency, and increasing test coverage through CI/CD.
+Currently working at a U.S. startup founded by former Qualcomm engineers.
+
+Integrating AI-driven products into mobile apps.
+Gaining experience in LLM-based architectures and low-latency algorithm optimization.
+Improving CI/CD test coverage and overall system stability.
   
 ### Research interests
-* 🔭 I’m currently interested in LLM, android.
-* 👋 Aiming to write code that is easy for others to read, based on a deep understanding of technology.
-* 📫 Anyone who interests about me, Always welcome to contact me!
+* 🔭 Currently exploring LLM, Android development, and system architecture.
+* 👋 Passionate about writing clear, maintainable code backed by a deep understanding of technology.
+* 📫 Open to discussions! Feel free to reach out.
 
 :email: <bbde1861@gmail.com>
 
