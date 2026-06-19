@@ -26,4 +26,4 @@ Please feel free to reach out.
 ### Languages
 🇰🇷 Korean — Native
 
-🇺🇸 English — Professional working proficiency
+🇺🇸 English — Fluent
