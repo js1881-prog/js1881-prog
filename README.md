@@ -18,15 +18,12 @@ Platform engineer at an early-stage U.S. startup. Building the AOSP platform tha
 
 
 ### Contact
-* Always open to a conversation — feel free to reach out.
+Please feel free to reach out.
 
 <bbde1861@gmail.com>
 
 
 ### Languages
-* 🇰🇷 Korean — Native
-* 🇺🇸 English — Professional working proficiency
+🇰🇷 Korean — Native
 
-  <br/>
-  <div align="center">
-  </div>
+🇺🇸 English — Professional working proficiency
