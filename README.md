@@ -1,7 +1,7 @@
 ## Daniel Kang
 
-Mobile engineer with 3+ years of experience across Flutter, Android, and AOSP platform integration. Currently at a major global enterprise(Japan) as an Android Engineer.
-
+Mobile Engineer with 3+ years of experience in Android, AOSP, and Flutter.
+Previously at a U.S. startup, now at a major Japanese enterprise.
 
 ## Career (Since 2023)
 
