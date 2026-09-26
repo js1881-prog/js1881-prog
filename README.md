@@ -15,7 +15,7 @@ Flutter engineer at a Korean startup. Drove a B2C application from first commit 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AOSP-A4C639?style=flat-square&logo=Android&logoColor=white"/></a>
 
-Platform engineer at an early-stage U.S. startup. Building the AOSP platform that runs on AI-glasses hardware and the Android companion app that pairs with it. Part of a sub-10-person team acquired by a major Japanese enterprise.
+Platform engineer at an early-stage U.S. startup, building the AOSP platform and Android companion app for AI glasses. Acquired by a major Japanese enterprise.
 
 
 ### Contact
